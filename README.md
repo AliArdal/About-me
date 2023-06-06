@@ -1,5 +1,15 @@
-# Welcome to GitHub Desktop!
+Hello  , I'm Ali
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+I am a Computer Engineering Student
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+I aim to constantly improve myself.
+
+Additionally , 
+
+*Fast Learner
+
+*Ability to Work in a Team
+
+*Effective Time Managament
+
+
